@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include <malloc.h>
 
 //This function returns a pointer to a matrix[rows][cols]
